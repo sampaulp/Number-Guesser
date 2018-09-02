@@ -1,4 +1,11 @@
-﻿using System;
+//******************************************************************************************//                                  
+//                                  Some Info                                               //
+//Simple Game which lets the player to guess a number from 1 to 10 and get it correct.      //
+//It is a tutorial by Brad Traversy, I picked it up to learn the syntax and structure of C# //
+//******************************************************************************************//
+
+//equivalent to import in Python
+using System;
 
 //Namespace - Like a container
 namespace numberGuesser
